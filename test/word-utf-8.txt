@@ -1,0 +1,4 @@
+﻿这是一个UTF-8的文本
+encoding with uft-8
+
+换行了

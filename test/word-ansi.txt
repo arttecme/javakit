@@ -1,0 +1,4 @@
+这是一个ANSI的文本
+encoding with ansi
+
+换行了
